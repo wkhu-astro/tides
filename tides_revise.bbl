@@ -1,0 +1,118 @@
+\begin{thebibliography}{13}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{{Meiksin} and {White}}(1999)}]{1999MNRAS.308.1179M}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{{Meiksin}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{White}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{308}},
+  \bibinfo{pages}{1179} (\bibinfo{year}{1999}), \eprint{astro-ph/9812129}.
+
+\bibitem[{\citenamefont{{Pen} et~al.}(2012)\citenamefont{{Pen}, {Sheth},
+  {Harnois-Deraps}, {Chen}, and {Li}}}]{2012:pen}
+\bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{{Sheth}}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Harnois-Deraps}}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{{Chen}}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{{Li}}},
+  \bibinfo{journal}{ArXiv e-prints}  (\bibinfo{year}{2012}),
+  \eprint{1202.5804}.
+
+\bibitem[{\citenamefont{{Zhu} et~al.}(2016)\citenamefont{{Zhu}, {Pen}, {Yu},
+  {Er}, and {Chen}}}]{2016PhRvD..93j3504Z}
+\bibinfo{author}{\bibfnamefont{H.-M.} \bibnamefont{{Zhu}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{{Yu}}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{{Er}}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{{Chen}}},
+  \bibinfo{journal}{\prd} \textbf{\bibinfo{volume}{93}}, \bibinfo{eid}{103504}
+  (\bibinfo{year}{2016}), \eprint{1511.04680}.
+
+\bibitem[{\citenamefont{{Eardley} et~al.}(1973)\citenamefont{{Eardley}, {Lee},
+  {Lightman}, {Wagoner}, and {Will}}}]{1973gw}
+\bibinfo{author}{\bibfnamefont{D.~M.} \bibnamefont{{Eardley}}},
+  \bibinfo{author}{\bibfnamefont{D.~L.} \bibnamefont{{Lee}}},
+  \bibinfo{author}{\bibfnamefont{A.~P.} \bibnamefont{{Lightman}}},
+  \bibinfo{author}{\bibfnamefont{R.~V.} \bibnamefont{{Wagoner}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~M.}
+  \bibnamefont{{Will}}}, \bibinfo{journal}{Physical Review Letters}
+  \textbf{\bibinfo{volume}{30}}, \bibinfo{pages}{884} (\bibinfo{year}{1973}).
+
+\bibitem[{\citenamefont{{Jeong} and {Kamionkowski}}(2012)}]{2012:jeong}
+\bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{{Jeong}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Kamionkowski}}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{108}},
+  \bibinfo{eid}{251301} (\bibinfo{year}{2012}), \eprint{1203.0302}.
+
+\bibitem[{\citenamefont{{Weinberg}}(1992)}]{1992MNRAS.254..315W}
+\bibinfo{author}{\bibfnamefont{D.~H.} \bibnamefont{{Weinberg}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{254}},
+  \bibinfo{pages}{315} (\bibinfo{year}{1992}).
+
+\bibitem[{\citenamefont{{Lu} and {Pen}}(2008)}]{2008:lu}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{{Lu}}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{388}},
+  \bibinfo{pages}{1819} (\bibinfo{year}{2008}), \eprint{0710.1108}.
+
+\bibitem[{\citenamefont{{Lu} et~al.}(2010)\citenamefont{{Lu}, {Pen}, and
+  {Dor{\'e}}}}]{2010lu}
+\bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{{Lu}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{O.}~\bibnamefont{{Dor{\'e}}}},
+  \bibinfo{journal}{\prd} \textbf{\bibinfo{volume}{81}}, \bibinfo{eid}{123015}
+  (\bibinfo{year}{2010}), \eprint{0905.0499}.
+
+\bibitem[{\citenamefont{{Bucher} et~al.}(2012)\citenamefont{{Bucher},
+  {Carvalho}, {Moodley}, and {Remazeilles}}}]{2012bucher}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Bucher}}},
+  \bibinfo{author}{\bibfnamefont{C.~S.} \bibnamefont{{Carvalho}}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{{Moodley}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{{Remazeilles}}},
+  \bibinfo{journal}{\prd} \textbf{\bibinfo{volume}{85}}, \bibinfo{eid}{043016}
+  (\bibinfo{year}{2012}), \eprint{1004.3285}.
+
+\bibitem[{\citenamefont{{Harnois-D{\'e}raps}
+  et~al.}(2013)\citenamefont{{Harnois-D{\'e}raps}, {Pen}, {Iliev}, {Merz},
+  {Emberson}, and {Desjacques}}}]{2013MNRAS.436..540H}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{{Harnois-D{\'e}raps}}},
+  \bibinfo{author}{\bibfnamefont{U.-L.} \bibnamefont{{Pen}}},
+  \bibinfo{author}{\bibfnamefont{I.~T.} \bibnamefont{{Iliev}}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{{Merz}}},
+  \bibinfo{author}{\bibfnamefont{J.~D.} \bibnamefont{{Emberson}}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{V.}~\bibnamefont{{Desjacques}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{436}},
+  \bibinfo{pages}{540} (\bibinfo{year}{2013}), \eprint{1208.5098}.
+
+\bibitem[{\citenamefont{{Kaiser}}(1987)}]{1987MNRAS.227....1K}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{{Kaiser}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{227}}, \bibinfo{pages}{1}
+  (\bibinfo{year}{1987}).
+
+\bibitem[{\citenamefont{{Jackson}}(1972)}]{1972MNRAS.156P...1J}
+\bibinfo{author}{\bibfnamefont{J.~C.} \bibnamefont{{Jackson}}},
+  \bibinfo{journal}{\mnras} \textbf{\bibinfo{volume}{156}}, \bibinfo{pages}{1P}
+  (\bibinfo{year}{1972}), \eprint{0810.3908}.
+
+\bibitem[{\citenamefont{{Seo} et~al.}(2015)\citenamefont{{Seo}, {Beutler},
+  {Ross}, and {Saito}}}]{2015arXiv151100663S}
+\bibinfo{author}{\bibfnamefont{H.-J.} \bibnamefont{{Seo}}},
+  \bibinfo{author}{\bibfnamefont{F.}~\bibnamefont{{Beutler}}},
+  \bibinfo{author}{\bibfnamefont{A.~J.} \bibnamefont{{Ross}}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{{Saito}}},
+  \bibinfo{journal}{ArXiv e-prints}  (\bibinfo{year}{2015}),
+  \eprint{1511.00663}.
+
+\end{thebibliography}
